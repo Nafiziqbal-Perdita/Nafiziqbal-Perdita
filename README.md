@@ -19,38 +19,14 @@ I focus on **mobile apps, backend systems, and practical problem-solving through
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
-
-* JavaScript
-* TypeScript
-
-### 📱 Frontend
-
-* React Native
-* Expo
-* NativeWind
-
-### 🖥 Backend
-
-* Node.js
-* Express.js
-* Supabase
-
-### 🔄 Realtime
-
-* Socket.io
-
-### 🗄 Database
-
-* PostgreSQL
-* Supabase
-
-### ⚙️ Tools
-
-* Git
-* Docker
-* Linux
-* VS Code
+| Category     | Technologies                     |
+| ------------ | -------------------------------- |
+| 💻 Languages | JavaScript • TypeScript          |
+| 📱 Frontend  | React Native • Expo • NativeWind |
+| 🖥 Backend   | Node.js • Express.js • Supabase  |
+| 🔄 Realtime  | Socket.io                        |
+| 🗄 Database  | PostgreSQL • Supabase            |
+| ⚙️ Tools     | Git • Docker • Linux • VS Code   |
 
 ---
 
@@ -72,7 +48,7 @@ I focus on **mobile apps, backend systems, and practical problem-solving through
 
 * 📧 Email: [nafiziqbal.mo@gmail.com](mailto:nafiziqbal.mo@gmail.com)
 * 💼 LinkedIn: [Nafiz Iqbal](https://www.linkedin.com/in/iqbal-nafiz/)
-* 🌐 Portfolio: [Nafiz Iqbal](https://www.linkedin.com/in/iqbal-nafiz/)
+* 🌐 Portfolio: [Nafiz Iqbal](https://www.nafiz-iqbal.me/)
 
 ---
 
